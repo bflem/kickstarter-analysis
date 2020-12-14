@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends
 The purpose of this analysis is to find useful and relevant information that will help Louis make the best decisions on how to launch her kickstarter campaign.
 ## Analysis and Challenges
 I performed the analysis by first looking at info that was only related to Louise’s interests. So, I filtered to look at the outcomes of campaigns in the theater category and how they compared to the others. 
-![Parent Category Outcomes](C:/Users/JDCS5731/Desktop/Analysis Projects/Crowdfunding Analysis/Parent Category Outcomes) 
+![Parent_Category_Outcomes](C:/Users/JDCS5731/Desktop/Analysis Projects/Crowdfunding Analysis/Parent_Category_Outcomes) 
 After seeing the success of theater campaigns in the past, I looked more specifically at plays. Plays were the most successful subcategory of theater, and overall. 
 ![Subcategory Outcomes](C:\Users\JDCS5731\Desktop\Analysis Projects\Crowdfunding Analysis\Subcategory Outcomes)
 Furthermore, I looked at the amounts of the goals versus what was pledged to see if there was any correlation between them and the campaign’s outcome. Lastly, I compared the outcomes of theater campaigns while looking at their launch dates to uncover any trends.  
